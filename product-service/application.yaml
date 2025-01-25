@@ -4,3 +4,5 @@
 spring:
   application:
     name: product-service
+
+pageSize: 15
