@@ -10,3 +10,4 @@ spring:
     console:
       enabled: true
 
+pageSize: 25
