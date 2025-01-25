@@ -4,3 +4,5 @@ server:
 #spring:
 #  profiles:
 #    active: prod
+
+pageSize: 10
